@@ -41,5 +41,4 @@ foreach ($nilai as $key => $value) {
 	echo "<br>";
 }
 
-
 ?>
