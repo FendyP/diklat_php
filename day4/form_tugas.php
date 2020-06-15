@@ -68,11 +68,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>FORM <?php echo $proses; ?> USER</title>
+	<title>FORM <?php echo $proses; ?> SISWA</title>
 </head>
 <body>
 	<hr>
-		FORM <?php echo $proses; ?> USER
+		FORM <?php echo $proses; ?> SISWA
 	<hr><br>
 	<a href="tugas.php"><button>List Data</button></a><br><br>
 	
